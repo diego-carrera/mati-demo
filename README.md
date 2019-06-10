@@ -13,10 +13,12 @@ cordova platform add ios
 [Android Reqs](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
 
 ```cordova build android```
+
 ```cordova run android --debug```
 
 ## IOS
 [IOS Reqs](https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html)
+
 ```cordova build ios```
 
 ## Code
